@@ -55,4 +55,3 @@ MIT
 :alien: Author
 ------
 Honza Dvorsky - http://honzadvorsky.com, [@czechboy0](http://twitter.com/czechboy0)
-
