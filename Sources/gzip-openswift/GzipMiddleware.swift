@@ -1,4 +1,5 @@
 import S4
+import gzip
 
 public enum GzipMiddlewareError: Error {
     case unsupportedStreamType

@@ -1,5 +1,6 @@
 import C7
 import Foundation
+import gzip
 
 extension C7.Data: Gzippable {
     public func gzipCompressed() throws -> C7.Data {

@@ -1,5 +1,6 @@
 import C7
 import Foundation
+import gzip
 
 public final class GzipStream: ReceivingStream {
     
