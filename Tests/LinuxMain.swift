@@ -1,5 +1,5 @@
 import XCTest
-@testable import gzipTestSuite
+@testable import gzip_openswiftTestSuite
 
 XCTMain([
 	 testCase(gzipTests.allTests),
