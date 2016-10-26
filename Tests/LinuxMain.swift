@@ -1,6 +1,7 @@
 import XCTest
-@testable import gzip_openswiftTestSuite
+@testable import ZewoGzipTests
 
 XCTMain([
 	 testCase(gzipTests.allTests),
+	 testCase(GzipMiddlewareTests.allTests),
 ])
